@@ -1,5 +1,3 @@
-// const Koa = require("koa");
-// const Router = require("koa-router");
 import Koa from "koa";
 import Router from "koa-router";
 import { Context } from "koa";
